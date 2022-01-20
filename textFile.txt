@@ -1,3 +1,5 @@
 I am learning git clone
 
 Learing git fetch and pull
+
+editing in GUI files directly
